@@ -106,7 +106,7 @@ Total columns: **33**
 ---
 
 ## 📈 Final Deliverable
-
+**Live Dashboard: https://app.powerbi.com/links/Sj-dAeP6cL?ctid=75c6a54f-cdc9-4ed2-941c-7096cf7dbda0&pbi_source=linkShare&bookmarkGuid=5710ce5a-bac9-4a81-8a9a-dace892bede3**
 An **interactive Power BI dashboard** summarizing the insights from the analysis.
 
 ---
